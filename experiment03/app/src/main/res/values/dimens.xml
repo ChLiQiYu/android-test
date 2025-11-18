@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 对话框内边距 -->
+    <dimen name="dialog_padding">16dp</dimen>
+
+    <!-- 标题栏内边距 -->
+    <dimen name="title_padding_top">16dp</dimen>
+    <dimen name="title_padding_bottom">16dp</dimen>
+
+    <!-- 输入框间距 -->
+    <dimen name="input_margin_top">16dp</dimen>
+    <dimen name="input_margin_between">8dp</dimen>
+    <dimen name="input_padding_horizontal">16dp</dimen>
+
+    <!-- 按钮区域间距 -->
+    <dimen name="button_area_margin_top">16dp</dimen>
+    <dimen name="button_margin_start">8dp</dimen>
+    <dimen name="button_padding">8dp</dimen>
+
+    <!-- 标题文字大小 -->
+    <dimen name="title_text_size">18sp</dimen>
+
+    <!-- 输入框文字大小 -->
+    <dimen name="input_text_size">16sp</dimen>
+
+    <!-- 按钮文字大小 -->
+    <dimen name="button_text_size">16sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
